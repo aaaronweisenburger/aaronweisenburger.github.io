@@ -100,7 +100,7 @@ Dragonfly Spinner Dog Toy:
 
 •Developed a handheld dragonfly-inspired spinner toy using Fusion 360
 
-•Includes a central hub for rotation. OD: 25.4mm. 3 TPU blades and a shaft interface with OD: 19.05 mm
+•Includes a central hub for rotation. OD: 25.4mm. 3 TPU 65D blades and a shaft interface with OD: 19.05 mm
 
 
 
