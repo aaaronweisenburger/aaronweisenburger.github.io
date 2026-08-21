@@ -1,4 +1,4 @@
-# Aerospace Engineering
+# Aaron Weisenburger: Sophomore Aerospace Engineering Student @ RPI
 
 ### Engineering Focus:
 
