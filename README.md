@@ -33,34 +33,43 @@ Rensselaer Rocket Society(RRS)-Troy, New York:
 ### Projects
 
 Level 1 High-Powered Rocket:
-
+![image alt](
 • Built, launched, and recovered a high-powered model rocket with an H-class motor(Impulse range: 226 Newton-seconds), demonstrating understanding of structural design, propulsion, and safety
 
 
-Level 2 High-Powered Rocket Mk1:   
+Level 2 High-Powered Rocket Mk1:  
+![image alt](
+![image alt](
 
 •Constructed a fiberglass high-powered model rocket using a 3-inch diameter Wildman Punisher kit.
 
 •Applied avionics knowledge to resolve recovery issues by reconfiguring faulty components 
+![image alt](
 
+Data: ![image alt](
+Open Rocket: ![image alt](
 Level 2 High-Powered Rocket Mk2:
 
 •Constructed a fiberglass high-powered model rocket from a previous L2 rocket and parts fabricated by myself.
+![image alt](
 
 •Body tube was fabricated using a roll wrapping technique: 6 oz fiberglass cloth wrapped around a 73.025mm OD PVC pipe saturated with West Systems Epoxy and Hardener.
 
 •Process for body tube was then repeated as previous body tube was too small in diameter.
+![image alt](
 
 •Fins and centering rings were hand-cut using a Dremel from a G10 fiberglass sheet
+![image alt](
+
+Open Rocket: ![image alt](
  
 Avionics Sled Mk1:
 
 •First design of an avionics sled, a board that houses electronics for my level 2 high-powered rocketry certification. 
 
 •Holes are preicsely spaced apart for the flight computer(EggTimer Quantum) to be screwed in
-
+![image alt](
  
-
 IREC Rocket(Structures Portion):
 
 •Objective of constructing an aerospace vehicle to successfully fly a scientific payload to 10,000’ on a student-developed motor, deploy the payload at apogee, collect flight data, and recover the vehicle was achieved 
@@ -70,8 +79,10 @@ IREC Rocket(Structures Portion):
 2.4 mm wall thickness
 
 •Body tubes constructed using: 6 layers of 6 oz biaxial weave fiberglass, 4 layers of 8 oz heavy fiberglass sleeve roll-wrapped around a 154.2 mm mandrel
+![image alt](
 
 •Nose cone: Six layers of 4 oz fiberglass sleeve formed around a 3D-printed mandrel
+![image alt](
 
 •Booster tube, motor tube, couplers, and avionics switch band: Roll-wrapped fiberglass construction: 2.4 mm wall thickness
 
@@ -80,9 +91,13 @@ IREC Rocket(Structures Portion):
 •Bulkheads, fins, and centering rings: Cut from 1/4-inch G12 fiberglass, bonded with Aeropoxy
 
 •Fin can: Through-the-wall fin design, internal and external Aeropoxy fillets, 3-layer carbon-fiber tip-to-tip reinforcement
+ 
+Open Rocket: ![image alt](
 
 
 IREC Rocket Fin Jig:
+![image alt](
+![image alt](
 
 •Designed a fin jig to hold 4 fiberglass fins in place on the booster tube for a rocket designed for Rensselaer Rocket Society’s International Rocket and Engineering Competition(IREC) team
 
@@ -90,23 +105,31 @@ IREC Rocket Fin Jig:
 
 
 Glove Box Holder:
+![image alt](
 
 •Designed a holder for nitrile examination gloves(223.83 mm x 127 mm x 60.33 mm) to make gloves more accessible to change the resin and take prints off of the Formlabs Form 4 Resin printer in RPI’s student makerspace
 
 •The holder is designed to fit into a pegboard with each peg spaced 25.4 mm apart
-
+![image alt](
 
 Dragonfly Spinner Dog Toy:
+![image alt](
 
 •Developed a handheld dragonfly-inspired spinner toy using Fusion 360
 
 •Includes a central hub for rotation. OD: 25.4mm. 3 TPU 65D blades and a shaft interface with OD: 19.05 mm
 
 Custom-Made Ammo Box(Ongoing Project):
+![image alt](
 
 • All freshmen room managers apart of RPI's MakerSpace, "The Forge", were given a challenge to custom-make a box using every machine in the space
 
 • Box, screws, nuts, and ammo were made in Siemens NX
+![image alt](
+![image alt](
+![image alt](
+![image alt](
+![image alt](
 
 
 
@@ -132,10 +155,11 @@ Custom-Made Ammo Box(Ongoing Project):
 ### Hobbies: 
 
 3D Printing
-
+![image alt](
 Hiking with my dog
-
+![image alt](
 Traveling
+![image alt](
 
 
 
