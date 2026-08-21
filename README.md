@@ -102,6 +102,14 @@ Dragonfly Spinner Dog Toy:
 
 •Includes a central hub for rotation. OD: 25.4mm. 3 TPU 65D blades and a shaft interface with OD: 19.05 mm
 
+Custom-Made Ammo Box(Ongoing Project):
+
+• All freshmen room managers apart of RPI's MakerSpace, "The Forge", were given a challenge to custom-make a box using every machine in the space
+
+• Box, screws, nuts, and ammo were made in Siemens NX
+
+
+
 
 
 ### Skills
