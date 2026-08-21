@@ -1,5 +1,4 @@
-# Major
-Aerospace Engineering
+# Aerospace Engineering
 
 ### Engineering Focus
 Currently pursuing my bachelor's in Aerospace Engineering at RPI. Excited to apply the knowledge I've learned in and outside the classroom from personal projects for internships and research opportunities.
