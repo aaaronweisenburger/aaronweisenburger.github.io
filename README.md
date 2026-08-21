@@ -6,28 +6,38 @@ Currently pursuing my bachelor's in Aerospace Engineering at RPI. Excited to app
 ### Experience
 
 3D Printing Specialist-Adelphi University
-•Instructed students over a 7-week program on additive manufacturing and the 3D printing process through lessons and engineering projects, including developing innovative prototype solutions for real-world problems 
+
+•Instructed students over a 7-week program on additive manufacturing and the 3D printing process through lessons and engineering projects, including developing innovative prototype solutions for real-world problems
+
 •Collaborated with fellow instructors to create lesson plans and foster an engaging learning environment
 
 ### Organizations
 
-The Forge-Troy, New York				                                              									  
+The Forge-Troy, New York	
+
 •Volunteer approximately 7 hours each week at RPI’s makerspace by helping students with setting up their personal or class projects on Prusa MK4S’s, Prusa XL’s, Formlabs Form 4 resin printers, BN-20A Eco-Solvent Inkjet, and Nova35 130W Laser Cutter 
+
 •Conduct repairs on FDM and SLA printers weekly, organize the makerspace, and run training sessions for volunteers
+
 •Attend weekly executive board meetings with other members to discuss budget, new equipment, and upcoming events
 
-Rensselaer Rocket Society(RRS)-Troy, New York					  
+Rensselaer Rocket Society(RRS)-Troy, New York			
+
 • Apart of the structures subsystem for RRS’s Intercollegiate Rocketry and Engineering Competition(IREC) team, which flew a payload to 9,863 feet on a student-developed solid rocket motor, deployed the payload at apogee, collected flight data, and recovered the vehicle. 
+
 •Collaborated with team members approximately 3 hours each week to design and fabricate all airframe components, including body tubes, the nosecone, and fins with carbon fiber tip-to-tip reinforcements
+
 •Earned 24th out of 143 overall in IREC and 4th place overall in the 10K student-researched and developed category despite working on an extremely limited budget
 
 ### Projects
 
-Level 1 High-Powered Rocket
+Level 1 High-Powered Rocket:
+
 • Built, launched, and recovered a high-powered model rocket with an H-class motor(Impulse range: 226 Newton-seconds), demonstrating understanding of structural design, propulsion, and safety
 
 
-Level 2 High-Powered Rocket Mk1:                 
+Level 2 High-Powered Rocket Mk1:   
+
 •Constructed a fiberglass high-powered model rocket using a 3-inch diameter Wildman Punisher kit.
 •Applied avionics knowledge to resolve recovery issues by reconfiguring faulty components 
 
