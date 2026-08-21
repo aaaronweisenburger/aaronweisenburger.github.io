@@ -131,7 +131,7 @@ Custom-Made Ammo Box(Ongoing Project):
 
 ### Hobbies: 
 
-Weightlifting
+3D Printing
 
 Hiking with my dog
 
