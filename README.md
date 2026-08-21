@@ -105,14 +105,21 @@ Dragonfly Spinner Dog Toy:
 
 
 ### Skills
-Siemens NX: CAD
-Autodesk Fusion 360: CAD
-Onshape: CAD
-Microsoft Office: Management
-FDM and SLA: Additive manufacturing
-Laser cutting: Subtractive manufacturing
-Soldering: Electronics
-CNC and Manual Machining: Metalworking
+•Siemens NX: CAD
+
+•Autodesk Fusion 360: CAD
+
+•Onshape: CAD
+
+•Microsoft Office: Management
+
+•FDM and SLA: Additive manufacturing
+
+•Laser cutting: Subtractive manufacturing
+
+•Soldering: Electronics
+
+•CNC and Manual Machining: Metalworking
 
 ### Hobbies: 
 
