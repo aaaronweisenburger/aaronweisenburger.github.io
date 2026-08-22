@@ -38,7 +38,7 @@ Level 1 High-Powered Rocket:
 
 
 Level 2 High-Powered Rocket Mk1:  
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/c5456031a74e0b80e37d5d078661395670876f89/IMG_4295.jpeg)
 Champlain Region Model Rocket Club. Conducted ground tests to verify that the amount of black powder was still correct due to temperature change. Drilled another vent hole in the fuselage. Verified center of pressure and center of gravity were at least one length of the diameter of the rocket away from each other. Launch unsuccessful; altimeter malfunctioned due to cold. 
 
 
@@ -52,15 +52,15 @@ Open Rocket: ![image alt](https://github.com/aaaronweisenburger/aaronweisenburge
 Level 2 High-Powered Rocket Mk2:
 
 •Constructed a fiberglass high-powered model rocket from a previous L2 rocket and parts fabricated by me.
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/c5456031a74e0b80e37d5d078661395670876f89/IMG_5134.jpeg)
 
 •Body tube was fabricated using a roll wrapping technique: 6 oz fiberglass cloth wrapped around a 73.025mm OD PVC pipe saturated with West Systems Epoxy and Hardener.
 
 • The process for the body tube was then repeated as the previous body tube was too small in diameter.
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/c5456031a74e0b80e37d5d078661395670876f89/IMG_4919.jpeg)
 
 •Fins and centering rings were hand-cut using a Dremel from a G10 fiberglass sheet
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/c5456031a74e0b80e37d5d078661395670876f89/fin%20diagram.png)
 
 Open Rocket: ![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/89c245ff71e16a4bd451d865294e994a7b6b835a/Screenshot%202026-08-17%20223155.png)
  
