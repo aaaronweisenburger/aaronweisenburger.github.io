@@ -39,7 +39,7 @@ Level 1 High-Powered Rocket:
 
 Level 2 High-Powered Rocket Mk1:  
 ![image alt](
-Champlain Region Model Rocket Club. Conducted ground tests to verify the amount of black powder was still correct due to temperature change. Drilled another vent hole in the fuselage. Verified center of pressure and center of gravity were at least one length of the diameter of the rocket away from each other. Launch unsuccessful; altimeter malfunctioned due to cold. 
+Champlain Region Model Rocket Club. Conducted ground tests to verify that the amount of black powder was still correct due to temperature change. Drilled another vent hole in the fuselage. Verified center of pressure and center of gravity were at least one length of the diameter of the rocket away from each other. Launch unsuccessful; altimeter malfunctioned due to cold. 
 
 
 •Constructed a fiberglass high-powered model rocket using a 3-inch-diameter Wildman Punisher kit.
@@ -80,7 +80,7 @@ IREC Rocket(Structures Portion):
 2.4 mm wall thickness
 
 •Body tubes constructed using: 6 layers of 6 oz biaxial weave fiberglass, 4 layers of 8 oz heavy fiberglass sleeve roll-wrapped around a 154.2 mm mandrel
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/00714c781253ad31b1dbaa67b66f86be3457e635/IMG_3637.JPG)
 
 •Nose cone: Six layers of 4 oz fiberglass sleeve formed around a 3D-printed mandrel
 ![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/89c245ff71e16a4bd451d865294e994a7b6b835a/Screenshot%202026-08-21%20145555.png)
@@ -121,16 +121,16 @@ Dragonfly Spinner Dog Toy:
 •Includes a central hub for rotation. OD: 25.4mm. 3 TPU 65D blades and a shaft interface with OD: 19.05 mm
 
 Custom-Made Ammo Box(Ongoing Project):
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/IMG_4760.jpeg)
 
 • All freshmen room managers apart of RPI's MakerSpace, "The Forge", were given a challenge to custom-make a box using every machine in the space
 
 • Box, screws, nuts, and ammo were made in Siemens NX
-![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/89c245ff71e16a4bd451d865294e994a7b6b835a/weisea4_box_mk1_dwg1.pdf)
-![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/475566f24e462161186dc2294abb36b8b7632ff1/weisea4_boxlid_mk1_dwg1.pdf)
-![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/475566f24e462161186dc2294abb36b8b7632ff1/weisea4_bullet_mk1_dwg1.pdf)
-![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/475566f24e462161186dc2294abb36b8b7632ff1/weisea4_nut_dwg1.pdf)
-![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/475566f24e462161186dc2294abb36b8b7632ff1/weisea4_screw_dwg1.pdf)
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/box.png)
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/bullte.png)
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/Screenshot%202026-08-22%20194224.png)
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/Screenshot%202026-08-22%20194145.png)
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/Screenshot%202026-08-22%20194040.png)
 
 
 
@@ -156,7 +156,7 @@ Custom-Made Ammo Box(Ongoing Project):
 ### Hobbies: 
 
 3D Printing
-![image alt](
+![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/6bb82fa7952add1ff14723dca3ce4856f74d2a66/IMG_5123.jpeg)
 Hiking with my dog
 ![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/475566f24e462161186dc2294abb36b8b7632ff1/IMG_2395.jpeg)
 Traveling
