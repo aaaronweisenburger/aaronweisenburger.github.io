@@ -2,7 +2,7 @@
 
 ### Engineering Focus:
 
-Currently pursuing my bachelor's in Aerospace Engineering at RPI. Excited to apply the knowledge I've learned in and outside the classroom from personal projects for internships and research opportunities.
+Currently pursuing my bachelor's in Aerospace Engineering at RPI. Excited to apply the knowledge I've learned in and outside the classroom for internships and research opportunities.
 
 ### Experience
 
@@ -16,7 +16,7 @@ Currently pursuing my bachelor's in Aerospace Engineering at RPI. Excited to app
 
 The Forge-Troy, New York:
 
-•Volunteer approximately 7 hours each week at RPI’s makerspace by helping students with setting up their personal or class projects on Prusa MK4S’s, Prusa XL’s, Formlabs Form 4 resin printers, BN-20A Eco-Solvent Inkjet, and Nova35 130W Laser Cutter 
+•Volunteer approximately 7 hours each week at RPI’s makerspace by helping students with setting up their personal or class projects on Prusa MK4S’s, Prusa XL’s, a Formlabs Form 4 resin printers BN-20A Eco-Solvent Inkjet or a Nova35 130W Laser Cutter 
 
 •Conduct repairs on FDM and SLA printers weekly, organize the makerspace, and run training sessions for volunteers
 
@@ -24,7 +24,7 @@ The Forge-Troy, New York:
 
 Rensselaer Rocket Society(RRS)-Troy, New York:			
 
-• Apart of the structures subsystem for RRS’s Intercollegiate Rocketry and Engineering Competition(IREC) team, which flew a payload to 9,863 feet on a student-developed solid rocket motor, deployed the payload at apogee, collected flight data, and recovered the vehicle. 
+• Previously apart of the structures subsystem for RRS’s Intercollegiate Rocketry and Engineering Competition(IREC) team, which flew a payload to 9,863 feet on a student-developed solid rocket motor, deployed the payload at apogee, collected flight data, and recovered the vehicle. 
 
 •Collaborated with team members approximately 3 hours each week to design and fabricate all airframe components, including body tubes, the nosecone, and fins with carbon fiber tip-to-tip reinforcements
 
