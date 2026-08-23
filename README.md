@@ -38,7 +38,7 @@ Level 1 High-Powered Rocket:
 
 
 Level 2 High-Powered Rocket Mk1:  
-![image alt](https://github.com/aaaronweisenburger/aaronweisenburger.github.io/blob/c5456031a74e0b80e37d5d078661395670876f89/IMG_4295.jpeg)
+![image alt](https://raw.githubusercontent.com/aaaronweisenburger/aaronweisenburger.github.io/c5456031a74e0b80e37d5d078661395670876f89/IMG_4295.jpeg)
 Champlain Region Model Rocket Club. Conducted ground tests to verify that the amount of black powder was still correct due to temperature change. Drilled another vent hole in the fuselage. Verified center of pressure and center of gravity were at least one length of the diameter of the rocket away from each other. Launch unsuccessful; altimeter malfunctioned due to cold. 
 
 
